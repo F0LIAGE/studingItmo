@@ -1,2 +1,3 @@
 # studyingItmo
 For Homework
++ GSGS
