@@ -1,6 +1,13 @@
 # studyingItmo
 <b>2nd semester hometasks</b>
-+ JS
- 1.<a href ="#">Task #1</a>
- 2. Task 
+<ul> 
+<li>JS</li>
+  <ul>
+  <li>Task 1</li>
+  <li>Task 2</li>
+  </ul>
+  <li>CMS</li>
+ </ul>
+ 
+   
   
